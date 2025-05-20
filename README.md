@@ -1,19 +1,14 @@
-<h1 align="center">Hi, I'm Andres dos Santos</h1>
-<h3 align="center">A full-stack developer.</h3>
+<h1>Hi</h1>
 
-- 🔭 I’m currently working on **Noter**
+I'm **Andres dos Santos**, a full-stack developer.
 
-- 🌱 I’m currently learning **CI/CD**
+🔭 currently working on my app, the Noter.
 
-- 👨‍💻 All of my projects are available at [https://andresdosantos.vercel.app](https://andresdosantos.vercel.app)
+🌱 currently taking a ci and cd course.
 
-- 📝 I regularly write articles on [https://medium.com/@andres.dosantosbritoamaral](https://medium.com/@andres.dosantosbritoamaral)
+👨‍💻 all of my projects are available [here](https://andresdosantos.vercel.app).
 
-- 💬 Ask me about **React, Android and Node**
-
-- 📫 How to reach me **andres.dosantosbritoamaral@gmail.com**
-
-- ⚡ Fun fact **I am a Muay Thai fighter**
+📫 How to reach me [here](mailto:andres.dosantosbritoamaral@gmail.com).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
