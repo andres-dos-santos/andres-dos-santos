@@ -1,4 +1,4 @@
-### Hello World!, I'm Andres, a Brazilian full-stack developer 👋🏼:
+### Hello World!, I'm Andres, a brazilian full-stack developer 👋🏼:
 🛜 currently working on my own [webpage](https://andresdosantos.vercel.app)<br>👨🏼‍🎓 studying about ci and cd on udemy<br>👨🏼‍💻 working as a full stack developer since 2020<br>
 
 **💻 Tech Stack:**<br><br>
