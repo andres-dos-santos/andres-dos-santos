@@ -1,3 +1,3 @@
 ### Hi, I'm Andres 👋🏼
 
-[https://andresdosantos.com](https://andresdosantos.com/).
+[andresdosantos.com](https://andresdosantos.com/).
